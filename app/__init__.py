@@ -1,4 +1,4 @@
-from core import toxicity_of
+from app.core import toxicity_of
 from fastapi import FastAPI, Body
 from fastapi.responses import RedirectResponse
 
